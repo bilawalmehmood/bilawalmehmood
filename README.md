@@ -76,7 +76,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilawalmehmood&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=bilawalmehmood&theme=radical" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/api?username=bilawalmehmood&theme=radical" alt="GitHub Streak" /></p>
 
 ---
 
