@@ -71,10 +71,10 @@
 
 ### 📊 GitHub Stats:
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jattbilawaljatt786@gmail.co&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jattbilawaljatt786@gmail.com&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jattbilawaljatt786@gmail.co&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jattbilawaljatt786@gmail.com&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jattbilawaljatt786@gmail.com&theme=radical" alt="GitHub Streak" /></p>
 
