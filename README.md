@@ -72,7 +72,12 @@
 ### 📊 GitHub Stats:
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilawalmehmood&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilawalmehmood&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bilawalmehmood&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 ---
 
 ### 🚀 Featured Projects:
